@@ -1,0 +1,11 @@
+/* 路由动效 */
+
+/* 全局 */
+.page-enter-active,.page-leave-active{
+  transition: all 0.2s;
+}
+.page-enter,.page-leave-active{
+  opacity: 0;
+  /* margin-left: -500px; */
+}
+

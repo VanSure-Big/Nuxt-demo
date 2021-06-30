@@ -1,0 +1,45 @@
+[
+  {
+    "name": "goods",
+    "path": "/goods",
+    "component": "D:\\\\练习\\\\VueProject\\\\Nuxt-demo\\\\pages\\\\goods.vue",
+    "chunkName": "pages/goods",
+    "children": [
+      {
+        "name": "goods/id",
+        "path": ":id?",
+        "component": "D:\\\\练习\\\\VueProject\\\\Nuxt-demo\\\\pages\\\\goods\\\\_id.vue",
+        "chunkName": "pages/goods/_id",
+        "_name": "_167ab462"
+      }
+    ],
+    "_name": "_6750830a"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "D:\\\\练习\\\\VueProject\\\\Nuxt-demo\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_12bdd50e"
+  },
+  {
+    "name": "recommend",
+    "path": "/recommend",
+    "component": "D:\\\\练习\\\\VueProject\\\\Nuxt-demo\\\\pages\\\\recommend.vue",
+    "chunkName": "pages/recommend",
+    "_name": "_43ca8661"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\练习\\\\VueProject\\\\Nuxt-demo\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_491631f7"
+  },
+  {
+    "name": "home",
+    "path": "/index",
+    "component": "D:\\\\练习\\\\VueProject\\\\Nuxt-demo\\\\pages\\\\index.vue",
+    "_name": "_491631f7"
+  }
+]
